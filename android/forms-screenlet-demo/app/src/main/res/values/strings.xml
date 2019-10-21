@@ -4,11 +4,11 @@
 	<string name="create_your_account_to_get_started">Create your account to get started.</string>
 	<string name="contact_support">Contact Support</string>
 	<string name="continue_">CONTINUE</string>
-	<string name="continue_insurance_quote_form">Continue Insurance Quote form?</string>
+	<string name="continue_insurance_quote_form">Continue form?</string>
 	<string name="could_not_load_form">Could not load Form</string>
 	<string name="drawer_close">Close navigation drawer</string>
 	<string name="drawer_open">Open navigation drawer</string>
-	<string name="default_email">test@liferay.com</string>
+	<string name="default_email">mohamed@liferay.com</string>
 	<string name="default_password">test</string>
 	<string name="download_file">Download file</string>
 	<string name="completed">completed.</string>
@@ -16,10 +16,10 @@
 	<string name="faq">FAQ</string>
 	<string name="forgot_password">Forgot Password?</string>
 	<string name="form_button">Form</string>
-	<string name="get_insurance_quote">GET INSURANCE QUOTE</string>
-	<string name="insurance_blog">Insurance Blog</string>
-	<string name="insurance_quote">Insurance Quote</string>
-	<string name="insurances">Insurances</string>
+	<string name="get_insurance_quote">GET FINCANCIAL ADVICE</string>
+	<string name="insurance_blog">Financial Blog</string>
+	<string name="insurance_quote">FINANCIAL ADVICE</string>
+	<string name="insurances">Services</string>
 	<string name="help">Help</string>
 	<string name="home">Home</string>
 	<string name="loading_form">Loading Form....</string>
@@ -40,7 +40,7 @@
 	<string name="thank_you_for_your_feedback">Thank you for your feedback!</string>
 	<string name="uppercase_login">LOGIN</string>
 	<string name="your_login">Your Login</string>
-	<string name="your_next_car_insurance">Your next car insurance.</string>
+	<string name="your_next_car_insurance">Your next investment.</string>
 	<string name="your_password">Your Password</string>
 	<string name="you_started_a_form_at_our_website">You started a form at our website.</string>
 	<string name="your_information_was_successfully_sent">Your information was successfully sent.</string>

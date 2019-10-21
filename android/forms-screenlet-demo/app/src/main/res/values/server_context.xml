@@ -4,8 +4,8 @@
     <!--10.0.2.2 means localhost on Android Emulator-->
     <string name="liferay_server">http://10.0.2.2:8080</string>
 
-    <string name="liferay_company_id">20096</string>
-    <string name="liferay_group_id">20119</string>
+    <string name="liferay_company_id">20101</string>
+    <string name="liferay_group_id">42501</string>
 
     <integer name="liferay_portal_version">72</integer>
 
@@ -18,7 +18,7 @@
     <string name="push_sender_id"></string>
 
     <!--Insurance Form values-->
-    <string name="insurance_form_id">37378</string>
+    <string name="insurance_form_id">47451</string>
 
     <!--My Policies values-->
     <!--Asset Publisher's filter - Configuration Template name-->
